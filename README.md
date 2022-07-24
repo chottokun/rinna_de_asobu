@@ -18,7 +18,13 @@ https://github.com/chottokun/rinna_de_asobu/blob/main/%E9%9D%92%E7%A9%BA%E6%96%8
 何はともあれ教師データが必要。
 
 ### ちょっと長い文章を作ってみる。
-現在挑戦中
+青空文庫から三国志をダウンロードして学習をさせたのちに文章生成に挑戦。
+https://github.com/chottokun/rinna_de_asobu/blob/main/Rinna_prediction_Aozora_try_sangokushi.ipynb
+
+出来た文章のみ
+https://github.com/chottokun/rinna_de_asobu/blob/main/generated_text.txt
+
+意外と読める！？
 
 # 感謝と共に
 先人の皆様に感謝。お勉強が進みます。
